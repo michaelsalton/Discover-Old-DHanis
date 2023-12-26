@@ -1,6 +1,6 @@
 # D'Hanis-Virtual-Exhibition
 
-Michael Salton, Emily Missetta Grant, Terry Yan Ju, Alexander Michael De Costa
+Developers: Michael Salton, Emily Missetta Grant, Terry Yan Ju, Alexander Michael De Costa
 
 The D'Hanis Virtual Exhibition is a project made in affiliation with Dr. Patricia Markert, a historical archaeologist and assistant professor at The Universirty of Western Ontario.
 
