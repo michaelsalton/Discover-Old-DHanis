@@ -1,7 +1,5 @@
 # D'Hanis-Virtual-Exhibition
 
-Developers: Michael Salton, Emily Missetta Grant, Terry Yan Ju, Alexander Michael De Costa
-
 The D'Hanis Virtual Exhibition is a project made in affiliation with Dr. Patricia Markert, a historical archaeologist and assistant professor at The Universirty of Western Ontario.
 
 The project focuses on the old town of D'Hanis, Texas. It aims to create a virtual representation of the historical town to be viewd in virtual reality. The project is being constructed using the Unity game engine and is still in the early development stages.
