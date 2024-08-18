@@ -1,13 +1,21 @@
 # D'Hanis-Virtual-Exhibition
 
-The D'Hanis Virtual Exhibition is a project made in affiliation with Dr. Patricia Markert, a historical archaeologist and assistant professor at The Universirty of Western Ontario.
+Discover. Learn. Preserve
 
-The project focuses on the old town of D'Hanis, Texas. It aims to create a virtual representation of the historical town to be viewd in virtual reality. The project is being constructed using the Unity game engine and is still in the early development stages.
+![dod1](https://github.com/user-attachments/assets/fd709ef3-dab9-4dbb-bfb8-e498f058f928)
 
-![image (1)](https://github.com/michaelsalton/DHanis-Virtual-Exhibition/assets/58754252/dda53b66-2884-4b5f-8e2a-ec8c34c29c04)
-![image (2)](https://github.com/michaelsalton/DHanis-Virtual-Exhibition/assets/58754252/7b0c992d-4334-4aab-a4ce-afc2d8d46a16)
-![image (3)](https://github.com/michaelsalton/DHanis-Virtual-Exhibition/assets/58754252/4161f897-e2c1-4ce2-b32c-9a3edc4604f0)
-![image (4)](https://github.com/michaelsalton/DHanis-Virtual-Exhibition/assets/58754252/de6b8539-ca94-4fac-8e1d-a45dc9f532df)
-![image (5)](https://github.com/michaelsalton/DHanis-Virtual-Exhibition/assets/58754252/af7a612b-04c2-4664-a1a8-efca40654c7b)
-![image (6)](https://github.com/michaelsalton/DHanis-Virtual-Exhibition/assets/58754252/c5285c07-dee5-41f9-920c-fbf587966bf6)
-![image](https://github.com/michaelsalton/DHanis-Virtual-Exhibition/assets/58754252/7092bbc4-6fe3-41d0-b1db-deb3d90b2557)
+Step into the past and unravel the rich history of Old D'Hanis in this captivating and immersive experience. Explore the 19th-century town and uncover its stories, from the Alsatian and German migrants who settled there in 1847 to the Black and Mexican families who called it home following the Civil War and Mexican Revolution. The game brings the old town to life using archival records, archaeological discoveries, architectural notes, and oral history recordings.
+
+![dod2](https://github.com/user-attachments/assets/722abc46-b9fa-4476-a76a-7614b0c7efdf)
+
+
+Become a historical detective as you wander the streets, unearthing fragments from a long-forgotten past. Sift through archaeological photos and field notes, listen to old stories, and explore the ruins. Each piece of information you collect helps you weave together the fascinating stories of the town's oldest residents.
+
+![dod3](https://github.com/user-attachments/assets/fa7ca22c-f8db-4db3-bc07-c89449ef68b4)
+
+
+Immerse yourself in the authentic atmosphere of Old D'Hanis, Texas, and experience the vibrant history of a community brought back to life through meticulous research and innovative technology. Are you ready to discover the secrets of Old D'Hanis? The adventure awaits!
+
+![dod4](https://github.com/user-attachments/assets/0e99b8aa-113b-4c02-93fa-c697a52afc3d)
+
+![dod5](https://github.com/user-attachments/assets/1e031c15-4271-4c2a-a780-c76bd02cf610)
